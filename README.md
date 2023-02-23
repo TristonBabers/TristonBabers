@@ -7,8 +7,8 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
 </pre>                                                                                       
                                                                                                                        
-  
+ Hello, welcome to my GitHub where I do coding projects sometimes.
  
- Hello, welcome to my GitHub where I do small coding projects sometimes.
+ I'm a 3rd-Year Computer Engineering Student at UCSD, and I am currently looking for internships.
  
- I'm a Computer Engineering Student at UCSD, and I code in Java & C++.
+ Check out my Portfolio Website at [TristonBabers.github.io](https://tristonbabers.github.io/)!
