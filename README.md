@@ -9,7 +9,7 @@
                                                                                                                        
  Hello, welcome to my GitHub where I do coding projects sometimes.
  
- I'm a 4th-Year Computer Engineering Student at UCSD, and I am currently looking for internships.
+ I'm a Computer Engineering graduate from UCSD.
  
  Check out my Portfolio Website at [TristonBabers.com](https://tristonbabers.com)!
 
